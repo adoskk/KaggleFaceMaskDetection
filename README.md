@@ -71,4 +71,4 @@ Before running any other code, please **run the setup.py in the root folder firs
 ## Train and Test
 
 - For training, please run train.py so to generate the model; or you can simply download the pre-trained model from: https://drive.google.com/drive/folders/1UuU5up0DQfRuafdbZrayPdRwpVvJOYYK?usp=sharing
-- the testing results will be written into the output folder, here's an example of prediction![result4](C:\Users\HP\Downloads\result4.png)
+- the testing results will be written into the output folder, here's an example of prediction:![https://github.com/adoskk/KaggleFaceMaskDetection/blob/master/output/result4.png]()
