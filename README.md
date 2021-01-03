@@ -18,33 +18,20 @@ Kaggle face mask detection dataset: https://www.kaggle.com/andrewmvd/face-mask-d
 
 FaceMaskDetection
 
-|---- data  
-|&nbsp;&nbsp;&nbsp;&nbsp;|---- original_data
-
-|      |      |---- images
-
-|      |      |---- annotations  
-
-|---- utilities
-
-|      |---- coco_utils
-
-|      |---- data_utils
-
-|      |---- train_eval
-
-|---- output
-
-|---- model
-
-README.md
-
-requirements.txt
-
-setup.py
-
-train.py
-
+|-- data  
+|&nbsp;&nbsp;&nbsp;&nbsp;|-- original_data  
+|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|-- images  
+|&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;|-- annotations  
+|-- utilities  
+|&nbsp;&nbsp;&nbsp;&nbsp;|-- coco_utils  
+|&nbsp;&nbsp;&nbsp;&nbsp;|-- data_utils  
+|&nbsp;&nbsp;&nbsp;&nbsp;|-- train_eval  
+|-- output  
+|-- model  
+README.md  
+requirements.txt  
+setup.py  
+train.py  
 test.py
 
 ## Environment Setup
