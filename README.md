@@ -19,8 +19,7 @@ Kaggle face mask detection dataset: https://www.kaggle.com/andrewmvd/face-mask-d
 FaceMaskDetection
 
 |---- data
-
-|      |---- original_data
+|     |---- original_data
 
 |      |      |---- images
 
